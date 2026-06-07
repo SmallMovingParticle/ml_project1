@@ -6,6 +6,6 @@ scikit-learn
 sns
 catboost
 xgboost
-
+dill
 
 -e .
