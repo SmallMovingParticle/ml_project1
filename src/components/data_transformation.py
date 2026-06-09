@@ -17,7 +17,7 @@ import dill
 
 @dataclass
 class DataTransformationConfig:
-    PreProcessor_obj_file_path= os.path.join('artifacts', "prepocessor.pkl")
+    PreProcessor_obj_file_path= os.path.join('artifacts', "preprocessor.pkl")
     
 
 class DataTransformation:
